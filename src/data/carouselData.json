@@ -1,0 +1,21 @@
+{
+  "slides": [
+    
+    { 
+        "src":"src/assets/img/one.png",
+        "alt":"pic2"
+    },
+
+    { 
+        "src":"src/assets/img/two.png",
+        "alt":"pic2"
+    },
+    {
+        "src":"src/assets/img/three.png",
+        "alt":"pic3"
+    },
+    { 
+        "src":"src/assets/img/four.png",
+        "alt":"pic4"
+    }]
+}
